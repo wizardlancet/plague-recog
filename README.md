@@ -7,7 +7,8 @@ Well,
 it is a matlab script for my physiology lab ,
 to recognize and find the areas of plagues.
 
-It's not finished yet.
+It is a part of <Supervised Segmentation of Virus Plaque Using Multilinear Regression>
+And the OpenCFU project have some similiar function, since that, this project is out dated.
 
 Mainly,in that procedure:
 1.fix the background distort with 5*5 pixel in 4 conors
